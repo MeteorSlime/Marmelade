@@ -1,0 +1,34 @@
+Unsupposrted library path: /home/valentin/MCreatorWorkspaces/marmelade/build/classes/java/api
+Unsupposrted library path: /home/valentin/MCreatorWorkspaces/marmelade/build/resources/api
+Symbol range map extraction starting
+Processing 10 files
+startProcessing "net/mcreator/marmelade/ClientProxyMarmeladeMod.java" md5: 4d34009ec51d5ba0cfd21a74d082c51e
+endProcessing "net/mcreator/marmelade/ClientProxyMarmeladeMod.java"
+
+startProcessing "net/mcreator/marmelade/ElementsMarmeladeMod.java" md5: e3855e453adc1f538e3c1bd9f0130004
+endProcessing "net/mcreator/marmelade/ElementsMarmeladeMod.java"
+
+startProcessing "net/mcreator/marmelade/IProxyMarmeladeMod.java" md5: 6caca8092c3c210536e6da1828eabc51
+endProcessing "net/mcreator/marmelade/IProxyMarmeladeMod.java"
+
+startProcessing "net/mcreator/marmelade/MarmeladeMod.java" md5: 0dd819510416947657897a2260a7f8aa
+endProcessing "net/mcreator/marmelade/MarmeladeMod.java"
+
+startProcessing "net/mcreator/marmelade/MarmeladeModVariables.java" md5: 87c9ad29c923ee3648f5125ed0671b9d
+endProcessing "net/mcreator/marmelade/MarmeladeModVariables.java"
+
+startProcessing "net/mcreator/marmelade/ServerProxyMarmeladeMod.java" md5: 65022b5426cb1b186f46df7168b646f7
+endProcessing "net/mcreator/marmelade/ServerProxyMarmeladeMod.java"
+
+startProcessing "net/mcreator/marmelade/block/BlockMarmeladenblock.java" md5: 9213c5b502ce0e87cda73e3572c3d345
+endProcessing "net/mcreator/marmelade/block/BlockMarmeladenblock.java"
+
+startProcessing "net/mcreator/marmelade/creativetab/TabMarmeladenmod.java" md5: c9ea66081fbc599a7a14f8c1359b326d
+endProcessing "net/mcreator/marmelade/creativetab/TabMarmeladenmod.java"
+
+startProcessing "net/mcreator/marmelade/item/ItemMarmeladenglas3.java" md5: 680c4c61b5fba580ba99cd6b10d914b3
+endProcessing "net/mcreator/marmelade/item/ItemMarmeladenglas3.java"
+
+startProcessing "net/mcreator/marmelade/procedure/ProcedureMarmeladenglas3FoodEaten.java" md5: 7a7a65e88359cfc9e0483bc10e1ddf2d
+endProcessing "net/mcreator/marmelade/procedure/ProcedureMarmeladenglas3FoodEaten.java"
+

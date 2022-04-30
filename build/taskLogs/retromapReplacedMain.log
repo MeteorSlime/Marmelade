@@ -1,0 +1,301 @@
+Processing 10 files
+Start Processing: net/mcreator/marmelade/ClientProxyMarmeladeMod.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.client.model.obj.OBJLoader
+End  Processing: net/mcreator/marmelade/ClientProxyMarmeladeMod.java
+
+Start Processing: net/mcreator/marmelade/ElementsMarmeladeMod.java
+FOUND CONSTR method net/mcreator/marmelade/ElementsMarmeladeMod/ElementsMarmeladeMod ()V net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/minecraftforge/fml/common/discovery/ASMDataTable
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod/ModElement
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/mcreator/marmelade/MarmeladeModVariables
+New Key: class net/mcreator/marmelade/MarmeladeModVariables
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class java/util/Map
+Rename field net/minecraft/world/World/provider[3607,3615]::provider->field_73011_w
+Rename field net/minecraft/entity/Entity/world[3981,3986]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[3995,4003]::isRemote->field_72995_K
+New Key: class net/mcreator/marmelade/MarmeladeModVariables
+Rename field net/minecraft/entity/Entity/world[4092,4097]::world->field_70170_p
+New Key: class net/mcreator/marmelade/MarmeladeModVariables
+Rename field net/minecraft/entity/Entity/world[4192,4197]::world->field_70170_p
+New Key: class net/mcreator/marmelade/MarmeladeModVariables
+New Key: class net/mcreator/marmelade/MarmeladeModVariables
+Rename field net/minecraft/entity/Entity/world[4704,4709]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[4718,4726]::isRemote->field_72995_K
+New Key: class net/mcreator/marmelade/MarmeladeModVariables
+Rename field net/minecraft/entity/Entity/world[4819,4824]::world->field_70170_p
+New Key: class net/mcreator/marmelade/MarmeladeModVariables
+FOUND CONSTR method net/mcreator/marmelade/ElementsMarmeladeMod/ModElement/ModElement (Lnet/mcreator/marmelade/ElementsMarmeladeMod;I)V net/mcreator/marmelade/ElementsMarmeladeMod/ModElement
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.EntityEntry
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessage
+Import: net.minecraftforge.fml.common.network.IGuiHandler
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.discovery.ASMDataTable
+Import: net.minecraftforge.fml.common.IWorldGenerator
+Import: net.minecraftforge.fml.common.IFuelHandler
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.storage.WorldSavedData
+Import: net.minecraft.world.gen.IChunkGenerator
+Import: net.minecraft.world.chunk.IChunkProvider
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraft.world.World
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.potion.Potion
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.Item
+Import: net.minecraft.entity.player.EntityPlayerMP
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.block.Block
+Import: java.util.function.Supplier
+Import: java.util.Random
+Import: java.util.Map
+Import: java.util.List
+Import: java.util.HashMap
+Import: java.util.Collections
+Import: java.util.ArrayList
+Import: java.lang.annotation.RetentionPolicy
+Import: java.lang.annotation.Retention
+End  Processing: net/mcreator/marmelade/ElementsMarmeladeMod.java
+
+Start Processing: net/mcreator/marmelade/IProxyMarmeladeMod.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+End  Processing: net/mcreator/marmelade/IProxyMarmeladeMod.java
+
+Start Processing: net/mcreator/marmelade/MarmeladeMod.java
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.registry.EntityEntry
+Import: net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper
+Import: net.minecraftforge.fml.common.network.NetworkRegistry
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.SidedProxy
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fluids.FluidRegistry
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.common.MinecraftForge
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.biome.Biome
+Import: net.minecraft.potion.Potion
+Import: net.minecraft.item.Item
+Import: net.minecraft.block.Block
+Import: java.util.function.Supplier
+End  Processing: net/mcreator/marmelade/MarmeladeMod.java
+
+Start Processing: net/mcreator/marmelade/MarmeladeModVariables.java
+FOUND CONSTR method net/mcreator/marmelade/MarmeladeModVariables/MapVariables/MapVariables ()V net/mcreator/marmelade/MarmeladeModVariables/MapVariables
+FOUND CONSTR method net/mcreator/marmelade/MarmeladeModVariables/MapVariables/MapVariables (Ljava/lang/String;)V net/mcreator/marmelade/MarmeladeModVariables/MapVariables
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[805,816]::readFromNBT->func_76184_a
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[881,891]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[983,992]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/isRemote[1012,1020]::isRemote->field_72995_K
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[1316,1329]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/getOrLoadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;[1332,1345]::getOrLoadData->func_75742_a
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[1449,1462]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[1465,1472]::setData->func_75745_a
+FOUND CONSTR method net/mcreator/marmelade/MarmeladeModVariables/WorldVariables/WorldVariables ()V net/mcreator/marmelade/MarmeladeModVariables/WorldVariables
+FOUND CONSTR method net/mcreator/marmelade/MarmeladeModVariables/WorldVariables/WorldVariables (Ljava/lang/String;)V net/mcreator/marmelade/MarmeladeModVariables/WorldVariables
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[1792,1803]::readFromNBT->func_76184_a
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[1868,1878]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[1970,1979]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/isRemote[1999,2007]::isRemote->field_72995_K
+Rename field net/minecraft/world/World/provider[2208,2216]::provider->field_73011_w
+Rename method net/minecraft/world/storage/MapStorage/getOrLoadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;[2372,2385]::getOrLoadData->func_75742_a
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[2514,2521]::setData->func_75745_a
+Rename field net/minecraft/network/NetHandlerPlayServer/player[2870,2876]::player->field_147369_b
+Rename method net/minecraft/entity/player/EntityPlayerMP/getServerWorld ()Lnet/minecraft/world/WorldServer;[2885,2899]::getServerWorld->func_71121_q
+Rename method net/minecraft/util/IThreadListener/addScheduledTask (Ljava/lang/Runnable;)Lcom/google/common/util/concurrent/ListenableFuture;[2907,2923]::addScheduledTask->func_152344_a
+Rename field net/minecraft/network/NetHandlerPlayServer/player[2981,2987]::player->field_147369_b
+Rename field net/minecraft/entity/Entity/world[2996,3001]::world->field_70170_p
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[3035,3047]::getMinecraft->func_71410_x
+Rename method net/minecraft/util/IThreadListener/addScheduledTask (Ljava/lang/Runnable;)Lcom/google/common/util/concurrent/ListenableFuture;[3050,3066]::addScheduledTask->func_152344_a
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[3107,3119]::getMinecraft->func_71410_x
+Rename field net/minecraft/client/Minecraft/player[3122,3128]::player->field_71439_g
+Rename field net/minecraft/entity/Entity/world[3136,3141]::world->field_70170_p
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[3327,3336]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/provider[3496,3504]::provider->field_73011_w
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[3570,3583]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[3586,3593]::setData->func_75745_a
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[3681,3688]::setData->func_75745_a
+FOUND CONSTR method net/mcreator/marmelade/MarmeladeModVariables/WorldSavedDataSyncMessage/WorldSavedDataSyncMessage ()V net/mcreator/marmelade/MarmeladeModVariables/WorldSavedDataSyncMessage
+FOUND CONSTR method net/mcreator/marmelade/MarmeladeModVariables/WorldSavedDataSyncMessage/WorldSavedDataSyncMessage (ILnet/minecraft/world/storage/WorldSavedData;)V net/mcreator/marmelade/MarmeladeModVariables/WorldSavedDataSyncMessage
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[4158,4168]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[4416,4427]::readFromNBT->func_76184_a
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.network.simpleimpl.MessageContext
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessage
+Import: net.minecraftforge.fml.common.network.ByteBufUtils
+Import: net.minecraft.world.storage.WorldSavedData
+Import: net.minecraft.world.World
+Import: net.minecraft.nbt.NBTTagCompound
+Import: net.minecraft.client.Minecraft
+End  Processing: net/mcreator/marmelade/MarmeladeModVariables.java
+
+Start Processing: net/mcreator/marmelade/ServerProxyMarmeladeMod.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+End  Processing: net/mcreator/marmelade/ServerProxyMarmeladeMod.java
+
+Start Processing: net/mcreator/marmelade/block/BlockMarmeladenblock.java
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/marmelade/block/BlockMarmeladenblock/BlockMarmeladenblock (Lnet/mcreator/marmelade/ElementsMarmeladeMod;)V net/mcreator/marmelade/block/BlockMarmeladenblock
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1388,1404]::getItemFromBlock->func_150898_a
+FOUND CONSTR method net/mcreator/marmelade/block/BlockMarmeladenblock/BlockCustom/BlockCustom ()V net/mcreator/marmelade/block/BlockMarmeladenblock/BlockCustom
+Rename field net/minecraft/block/material/Material/SPONGE[1582,1588]::SPONGE->field_151583_m
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1602,1620]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1639,1651]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/SLIME[1663,1668]::SLIME->field_185859_l
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1683,1694]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1705,1718]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1728,1741]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1750,1765]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1771,1785]::setCreativeTab->func_149647_a
+Rename method net/minecraft/block/Block/isOpaqueCube (Lnet/minecraft/block/state/IBlockState;)Z[1842,1854]::isOpaqueCube->func_149662_c
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraft.item.Item
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.block.state.IBlockState
+Import: net.minecraft.block.material.Material
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.Block
+Import: net.mcreator.marmelade.creativetab.TabMarmeladenmod
+Import: net.mcreator.marmelade.ElementsMarmeladeMod
+End  Processing: net/mcreator/marmelade/block/BlockMarmeladenblock.java
+
+Start Processing: net/mcreator/marmelade/creativetab/TabMarmeladenmod.java
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+FOUND CONSTR method net/mcreator/marmelade/creativetab/TabMarmeladenmod/TabMarmeladenmod (Lnet/mcreator/marmelade/ElementsMarmeladeMod;)V net/mcreator/marmelade/creativetab/TabMarmeladenmod
+Rename method net/minecraft/creativetab/CreativeTabs/getTabIconItem ()Lnet/minecraft/item/ItemStack;[679,693]::getTabIconItem->func_78016_d
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.mcreator.marmelade.item.ItemMarmeladenglas3
+Import: net.mcreator.marmelade.ElementsMarmeladeMod
+End  Processing: net/mcreator/marmelade/creativetab/TabMarmeladenmod.java
+
+Start Processing: net/mcreator/marmelade/item/ItemMarmeladenglas3.java
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/marmelade/item/ItemMarmeladenglas3/ItemMarmeladenglas3 (Lnet/mcreator/marmelade/ElementsMarmeladeMod;)V net/mcreator/marmelade/item/ItemMarmeladenglas3
+FOUND CONSTR method net/mcreator/marmelade/item/ItemMarmeladenglas3/ItemFoodCustom/ItemFoodCustom ()V net/mcreator/marmelade/item/ItemMarmeladenglas3/ItemFoodCustom
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1567,1585]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1642,1656]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/setMaxStackSize (I)Lnet/minecraft/item/Item;[1681,1696]::setMaxStackSize->func_77625_d
+Rename method net/minecraft/item/Item/getItemUseAction (Lnet/minecraft/item/ItemStack;)Lnet/minecraft/item/EnumAction;[1736,1752]::getItemUseAction->func_77661_b
+Rename method net/minecraft/item/ItemFood/onFoodEaten (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V[1838,1849]::onFoodEaten->func_77849_c
+Rename method net/minecraft/item/ItemFood/onFoodEaten (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V[1917,1928]::onFoodEaten->func_77849_c
+Rename field net/minecraft/entity/Entity/posX[1981,1985]::posX->field_70165_t
+Rename field net/minecraft/entity/Entity/posY[2020,2024]::posY->field_70163_u
+Rename field net/minecraft/entity/Entity/posZ[2059,2063]::posZ->field_70161_v
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraft.world.World
+Import: net.minecraft.item.ItemStack
+Import: net.minecraft.item.ItemFood
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.EnumAction
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.mcreator.marmelade.procedure.ProcedureMarmeladenglas3FoodEaten
+Import: net.mcreator.marmelade.creativetab.TabMarmeladenmod
+Import: net.mcreator.marmelade.ElementsMarmeladeMod
+Import: java.util.Map
+Import: java.util.HashMap
+End  Processing: net/mcreator/marmelade/item/ItemMarmeladenglas3.java
+
+Start Processing: net/mcreator/marmelade/procedure/ProcedureMarmeladenglas3FoodEaten.java
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+New Key: class net/mcreator/marmelade/ElementsMarmeladeMod
+FOUND CONSTR method net/mcreator/marmelade/procedure/ProcedureMarmeladenglas3FoodEaten/ProcedureMarmeladenglas3FoodEaten (Lnet/mcreator/marmelade/ElementsMarmeladeMod;)V net/mcreator/marmelade/procedure/ProcedureMarmeladenglas3FoodEaten
+Rename field net/minecraft/entity/Entity/world[1040,1045]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[1054,1062]::isRemote->field_72995_K
+Rename field net/minecraft/entity/Entity/world[1076,1081]::world->field_70170_p
+Rename method net/minecraft/world/World/getMinecraftServer ()Lnet/minecraft/server/MinecraftServer;[1090,1108]::getMinecraftServer->func_73046_m
+Rename field net/minecraft/entity/Entity/world[1125,1130]::world->field_70170_p
+Rename method net/minecraft/world/World/getMinecraftServer ()Lnet/minecraft/server/MinecraftServer;[1139,1157]::getMinecraftServer->func_73046_m
+Rename method net/minecraft/server/MinecraftServer/getCommandManager ()Lnet/minecraft/command/ICommandManager;[1154,1171]::getCommandManager->func_71187_D
+Rename method net/minecraft/command/ICommandManager/executeCommand (Lnet/minecraft/command/ICommandSender;Ljava/lang/String;)I[1169,1183]::executeCommand->func_71556_a
+Rename method net/minecraft/command/ICommandSender/getName ()Ljava/lang/String;[1239,1246]::getName->func_70005_c_
+Rename method net/minecraft/command/ICommandSender/canUseCommand (ILjava/lang/String;)Z[1317,1330]::canUseCommand->func_70003_b
+Rename method net/minecraft/command/ICommandSender/getEntityWorld ()Lnet/minecraft/world/World;[1424,1438]::getEntityWorld->func_130014_f_
+Rename field net/minecraft/entity/Entity/world[1461,1466]::world->field_70170_p
+Rename method net/minecraft/command/ICommandSender/getServer ()Lnet/minecraft/server/MinecraftServer;[1527,1536]::getServer->func_184102_h
+Rename field net/minecraft/entity/Entity/world[1563,1568]::world->field_70170_p
+Rename method net/minecraft/world/World/getMinecraftServer ()Lnet/minecraft/server/MinecraftServer;[1577,1595]::getMinecraftServer->func_73046_m
+Rename method net/minecraft/command/ICommandSender/sendCommandFeedback ()Z[1636,1655]::sendCommandFeedback->func_174792_t_
+Rename method net/minecraft/command/ICommandSender/getPosition ()Lnet/minecraft/util/math/BlockPos;[1719,1730]::getPosition->func_180425_c
+Rename method net/minecraft/command/ICommandSender/getPosition ()Lnet/minecraft/util/math/BlockPos;[1755,1766]::getPosition->func_180425_c
+Rename method net/minecraft/command/ICommandSender/getPositionVector ()Lnet/minecraft/util/math/Vec3d;[1813,1830]::getPositionVector->func_174791_d
+Rename field net/minecraft/entity/Entity/posX[1859,1863]::posX->field_70165_t
+Rename field net/minecraft/entity/Entity/posY[1879,1883]::posY->field_70163_u
+Rename field net/minecraft/entity/Entity/posZ[1899,1903]::posZ->field_70161_v
+Rename method net/minecraft/command/ICommandSender/getCommandSenderEntity ()Lnet/minecraft/entity/Entity;[1957,1979]::getCommandSenderEntity->func_174793_f
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[2115,2130]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/HASTE[2156,2161]::HASTE->field_76422_e
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[2269,2284]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SPEED[2310,2315]::SPEED->field_76424_c
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[2419,2434]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/JUMP_BOOST[2460,2470]::JUMP_BOOST->field_76430_j
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[2572,2587]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/STRENGTH[2613,2621]::STRENGTH->field_76420_g
+Import: net.minecraft.world.World
+Import: net.minecraft.util.math.Vec3d
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.server.MinecraftServer
+Import: net.minecraft.potion.PotionEffect
+Import: net.minecraft.init.MobEffects
+Import: net.minecraft.entity.EntityLivingBase
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.command.ICommandSender
+Import: net.mcreator.marmelade.ElementsMarmeladeMod
+Import: java.util.Map
+End  Processing: net/mcreator/marmelade/procedure/ProcedureMarmeladenglas3FoodEaten.java
+
