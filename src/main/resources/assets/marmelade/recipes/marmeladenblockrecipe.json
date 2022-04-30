@@ -1,0 +1,42 @@
+{
+  "group": "marmelade",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "marmelade:marmeladenglas3"
+    },
+    "1": {
+      "item": "marmelade:marmeladenglas3"
+    },
+    "2": {
+      "item": "marmelade:marmeladenglas3"
+    },
+    "3": {
+      "item": "marmelade:marmeladenglas3"
+    },
+    "4": {
+      "item": "marmelade:marmeladenglas3"
+    },
+    "5": {
+      "item": "marmelade:marmeladenglas3"
+    },
+    "6": {
+      "item": "marmelade:marmeladenglas3"
+    },
+    "7": {
+      "item": "marmelade:marmeladenglas3"
+    },
+    "8": {
+      "item": "marmelade:marmeladenglas3"
+    }
+  },
+  "result": {
+    "item": "marmelade:marmeladenblock",
+    "count": 1
+  }
+}

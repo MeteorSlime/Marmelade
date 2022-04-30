@@ -1,0 +1,16 @@
+{
+  "group": "marmelade",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "marmelade:marmeladenblock"
+    }
+  },
+  "result": {
+    "item": "marmelade:marmeladenglas3",
+    "count": 9
+  }
+}

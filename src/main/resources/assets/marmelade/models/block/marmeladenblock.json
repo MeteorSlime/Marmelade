@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "marmelade:blocks/marmeladenblocktexture",
+    "up": "marmelade:blocks/marmeladenblocktexture",
+    "north": "marmelade:blocks/marmeladenblocktexture",
+    "east": "marmelade:blocks/marmeladenblocktexture",
+    "south": "marmelade:blocks/marmeladenblocktexture",
+    "west": "marmelade:blocks/marmeladenblocktexture",
+    "particle": "marmelade:blocks/marmeladenblocktexture"
+  }
+}
