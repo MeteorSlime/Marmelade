@@ -1,2 +1,2 @@
 # Marmelade
-These are the source files for the MarmeladenMod.
+These are the source files for the MarmeladenMod on Curse forge.
