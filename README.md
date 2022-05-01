@@ -1,5 +1,5 @@
 # Marmelade
-These are the source files for the MarmeladenMod on Curse forge.
+These are the source files for the MarmeladenMod on Curse forge:https://www.curseforge.com/minecraft/mc-mods/marmeladenmod
 
 This was made with the help of the Minecraft mod maker MCreator. 
 If you want to load this mod into MCreator for editing purposes do the following:
